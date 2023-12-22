@@ -9,4 +9,4 @@
 👉 https://appmaking.com/display-image-in-flutter/
 👉 https://docs.flutter.dev/ui/assets/assets-and-images
 
-![](https://github.com/urian121/Aprendiendo-Flutter-desde-cero/blob/master/app_mostrar_imagen_network/resultado-final-flutter.pnggit)
+![](https://github.com/urian121/Aprendiendo-Flutter-desde-cero/blob/master/app_mostrar_imagen_network/resultado-final-flutter.png)
