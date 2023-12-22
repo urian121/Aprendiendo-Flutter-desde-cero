@@ -1,4 +1,4 @@
-### Mostrar una Imagen con Flutter
+### Mostrar una Imagen con Widget NetworkImage en Flutter
 
 #### Descubre cómo exhibir imágenes en Flutter y personalizarlas con propiedades, como borderRadius, para mejorar la presentación visual. Este proceso de aprendizaje te permitirá no solo mostrar imágenes, sino también darles un toque único y estilizado dentro de tu aplicación Flutter.
 
