@@ -10,4 +10,4 @@
 
 👉 https://docs.flutter.dev/ui/assets/assets-and-images
 
-![](https://github.com/urian121/Aprendiendo-Flutter-desde-cero/blob/master/App_foto_perfil/resultado-final-flutter.png)
+![](https://github.com/urian121/Aprendiendo-Flutter-desde-cero/blob/master/app_mostrar_foto_perfil/resultado-final-flutter.png)
