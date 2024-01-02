@@ -6,4 +6,4 @@
 
 👉 https://flutter.dev/
 
-![](https://github.com/urian121/Aprendiendo-Flutter-desde-cero/blob/master/app_lista_contactos/lista-contactos-flutter-urian.png.png)
+![](https://github.com/urian121/Aprendiendo-Flutter-desde-cero/blob/master/app_lista_contactos/lista-contactos-flutter-urian.png)
