@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.blueAccent,
           title: const Center(
             child: Text(
-              'Lista de Contactos',
+              'Lista de Contactos ',
               style: TextStyle(color: Colors.white, fontSize: 30),
             ),
           ),
@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
           shadowColor: Colors.blueAccent,
           actions: const <Widget>[
             Icon(
-              Icons.person_2_sharp, //ç
+              Icons.person_add_alt, //ç
               color: Colors.white,
             ) //icon: Icons.add),
           ],
@@ -51,11 +51,12 @@ class ContactList extends StatefulWidget {
   const ContactList({super.key});
 
   @override
-  _ContactListState createState() => _ContactListState();
+  ContactListState createState() => ContactListState();
 }
 
-class _ContactListState extends State<ContactList> {
+class ContactListState extends State<ContactList> {
   List<Contact> contacts = [
+    Contact(name: "Urian Viera*", phoneNumber: "321-387-2648"),
     Contact(name: "Juan", phoneNumber: "123-456-7890"),
     Contact(name: "Brenda", phoneNumber: "555-444-3333"),
     Contact(name: "María", phoneNumber: "987-654-3210"),
